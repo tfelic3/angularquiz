@@ -1,5 +1,11 @@
 [
   {
+    "label": "Politics",
+    "name": "politics",
+    "description": "Questions about politics",
+    "fileName": "politics.json"
+  },
+  {
     "label": "Math",
     "name": "math",
     "description": "Questions about maths",

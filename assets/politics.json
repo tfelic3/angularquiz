@@ -1,0 +1,44 @@
+
+[{
+    "label": "Democratic presidential candidate and former Vice President Joe Biden said he believed this state’s primary “could be done” despite coronavirus fears.",
+"choices":[
+    {"value":"Louisiana",
+    "correct": "false"},
+    {"value":"Mississippi",
+    "correct": "false"},
+    {"value": "Delaware",
+    "correct":"false"},
+    {"value":"Wisconsin",
+    "correct": "true"}
+]  
+    },
+    
+    {
+     "label": "Gov. Brian Kemp ordered this state to begin a phased reopening on April 23.",
+     "choices": [
+         {"value":"Georgia",
+        "correct" :"true"},
+         {"value": "Arkansas",
+            "correct":"false" 
+            },{
+                "value": "New York",
+                "correct": "false"
+            },{"value": "Utah",
+                "correct": "false"}] 
+    },
+    
+    {
+    "label": "The novel coronavirus appears to have originated in this animal?",
+   
+    "choices":[{"value": "Mouse", "correct": "false"},{"value":"Donkey", "correct": "false"},{"value":"Bat", "correct": "true"},{"value":"Cow", "correct":"false"}]
+
+    },
+    
+  {
+        "label": "This public official began a 'modified quarantine' after coming into contact with a White House staffer who tested positive for the coronavirus.",
+      
+        "choices":[{"value": "Stephen Miller", "correct": "false"},{"value":"Anthony Fauci","correct":"true"},{"value":"Donald Trump","correct": "false"},{"value":"Mike Pence","correct":"false"}]
+        
+    }
+    
+  ]
